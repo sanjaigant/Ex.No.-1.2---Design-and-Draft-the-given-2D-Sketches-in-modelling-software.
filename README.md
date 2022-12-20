@@ -36,6 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
+ file:///home/sec/Downloads/Exercise%201.2_page-0001.jpg![image](https://user-images.githubusercontent.com/119875375/208725255-fd92e5e7-2027-473f-8059-73322f2c1104.png)
+
  
  
  ## RESULT
